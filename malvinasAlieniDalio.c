@@ -1,4 +1,4 @@
-//Comision 2
+//Comisión 2
 //Agustin Alieni, DNI: 46332866
 //Damian Dalio, DNI: 45801187
 
