@@ -1,6 +1,6 @@
 //Comision 2
 //Agustin Alieni, DNI: 46332866
-//Alejandra Dalio, DNI: 45801187
+//Damian Dalio, DNI: 45801187
 
 #include <stdio.h>
 #include <string.h>
